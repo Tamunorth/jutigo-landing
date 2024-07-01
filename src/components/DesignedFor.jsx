@@ -1,8 +1,4 @@
 import React from "react";
-import create from "../assets/create_icon.svg";
-import getPaid from "../assets/get_paid_icon.svg";
-import send from "../assets/send_icon.svg";
-import CreateInvoiceSteps from "./InvoiceSteps/CreateInvoiceSteps";
 import DesignedForItem from "./designed_for/DesignedForItem";
 
 const DesignedFor = () => {
